@@ -7,12 +7,7 @@
    Greater than(left map), Less than(right map):
 
 
-   ![K-maps](![de1-neviem](https://user-images.githubusercontent.com/99724562/156033315-7b787ead-7fea-4172-9c99-6bf2bff2875b.jpg)
-)
-
-  
-
-   ![K-maps](images/kmap_empty.png)
+   ![K-maps](de1-neviem.jpg)
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
