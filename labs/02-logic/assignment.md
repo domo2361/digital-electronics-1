@@ -1,4 +1,4 @@
-# Lab 2: YOUR_Dominik Vasko
+# Lab 2: Dominik Vasko
 
 ### 2-bit comparator
 
